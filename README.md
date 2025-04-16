@@ -1,6 +1,7 @@
+
 # Samuel Roza
 Tenho focado em desenvolver soluções que otimizem processos através da 
-automação. me dedicando ao estudo e aplicação prática de 
+automação (RPA). me dedicando a aplicação prática de 
 ferramentas como N8n, Supabase, JavaScript e Python, além de integração 
 de APIs e uso de MySQL para armazenamento e manipulação de dados. 
 
@@ -94,9 +95,8 @@ de APIs e uso de MySQL para armazenamento e manipulação de dados.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Samuel-rzc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=Samuel-rzc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 </p>
-
 
 
